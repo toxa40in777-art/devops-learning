@@ -1,4 +1,4 @@
-# My Linux notes
+# Linux notes for DevOps
 
 ##Useful commands
 
