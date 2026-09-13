@@ -1,4 +1,4 @@
-# Linux notes
+# My Linux notes
 
 ##Useful commands
 
